@@ -6,5 +6,5 @@
 
 - 📫 Talk to me using email (felipegb882@gmail.com) or discord (Starfaith#0901)
 
-- 🕹️ Working on a project with my friends, programming a game on Unity. The project is new so don't expect much. 
+- 🕹️ Working on a project with my friends, programming a game on Unity.
 - 🕹️ (https://trello.com/b/46sMa1vL/project-lotus)
