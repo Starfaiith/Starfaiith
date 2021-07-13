@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in working on programming and development, but I really prefer backend
 
-- 🌱 I’m currently learning C# but i have plenty of free time so i'm going to start a algorithm course on "curso em video"
+- 🌱 I’m currently learning C# and JS!
 
 - 📫 Talk to me using email (felipegb882@gmail.com) or discord (Starfaith#0901)
 
